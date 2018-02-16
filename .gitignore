@@ -28,6 +28,9 @@ dist/
 node_modules/
 bower_components/
 
+#EXTRA STUFF AREA
+MVP_STARTER/
+
 # Floobits
 .floo
 .floobit
